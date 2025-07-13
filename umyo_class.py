@@ -65,8 +65,8 @@ class uMyo:
         ```
     """
     def __init__(self, uid):
-         """Initialize a new uMyo device instance.
-        
+        """Initialize a new uMyo device instance.
+    
         Args:
             uid (int): Unique identifier for this device
             
